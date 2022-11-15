@@ -1,0 +1,2 @@
+model_checkpoint_path: "MRI_model_checkpoint"
+all_model_checkpoint_paths: "MRI_model_checkpoint"
